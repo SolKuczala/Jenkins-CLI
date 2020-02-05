@@ -24,3 +24,5 @@ Go to console where Jenkins is:
 Profit \o/
 
 Available commands under http://YOUR_JENKINS_HOSTNAME/cli/
+
+More info: https://wiki.jenkins.io/display/JENKINS/Jenkins+CLI
